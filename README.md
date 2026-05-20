@@ -1,93 +1,79 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A66C2&height=200&section=header&text=Dev%20%3A%20S%20%E1%B4%9C%E1%B4%8F%E1%B4%8F%E1%B4%8F%E1%B4%8F%E1%B4%8F%E1%B4%8F%E1%B4%8F%E1%B4%8F&fontSize=40&fontColor=ffffff" width="100%"/>
+
+  <!-- Epic Header -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0A66C2,00FF88,FF00FF&height=280&section=header&text=Dev%20%3A%20S%20%E1%B4%9C%E1%B4%8F%E1%B4%8F%E1%B4%8F%E1%B4%8F%E1%B4%8F%E1%B4%8F%E1%B4%8F%E1%B4%8F&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Code%20Poet%20%7C%20Pixel%20Wizard%20%7C%20Future%20Builder&descAlign=50&descSize=18" width="100%"/>
+
+  <h1>👾 <span style="background: linear-gradient(90deg, #0A66C2, #00FF88, #FF00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: 'SF Pro Display', sans-serif;">S ʜͦ͢ᴀɴᴀ</span> 👾</h1>
   
-  <h1>👋 Hi, I'm <span style="color: #0A66C2;">S ʜͦ͢ᴀɴᴀ</span></h1>
-  <p><strong>Full Stack Developer | UI/UX Enthusiast | Code Artist</strong></p>
-
-  <!-- Typing Animation -->
+  <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Building+the+future+with+code;Turning+ideas+into+reality;Passionate+about+clean+UI%2FUX;Always+learning+new+tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=2800&pause=600&color=00FF88&center=true&vCenter=true&width=700&lines=Crafting+Digital+Masterpieces;Next.js+%2B+TypeScript+Alchemist;Turning+Caffeine+into+Code;UI%2FUX+that+feels+like+Magic;Always+one+step+into+the+future" alt="Typing" />
   </a>
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0a0b0b0b-0b0b-4b0b-8b0b-0b0b0b0b0b0b" width="80" height="80" style="border-radius: 50%; border: 4px solid #0A66C2;"/>
+  <img src="https://github.com/user-attachments/assets/YOUR_PROFILE_GIF_HERE" width="220" style="border-radius: 50%; border: 6px solid #00FF88; box-shadow: 0 0 40px rgba(0, 255, 136, 0.6);"/>
 </div>
 
 ---
 
-### 🚀 About Me
-- 🔥 Passionate developer crafting beautiful digital experiences
-- 💻 Currently mastering **Next.js, Tailwind, TypeScript & AI tools**
-- 🎨 Love turning complex problems into simple, beautiful solutions
-- 🌍 Open to collaborations and exciting projects
+### 🌌 About Me
+> **"I don't just write code — I architect experiences that people fall in love with."**
+
+- 🔥 Full-Stack Sorcerer | UI/UX Visionary | AI Enthusiast
+- 💎 Currently building **next-gen web experiences** with bleeding-edge tech
+- 🎮 When not coding: Gaming, Designing, or exploring Cyberpunk aesthetics
+- 🌍 Open for collaborations that push boundaries
 
 ---
 
-### 🛠️ Tech Stack
+### ⚡ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,python,git,figma,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,react,nodejs,postgres,prisma,figma,threejs,framer,ai,python&perline=11&theme=dark" /><br>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Live Stats (Auto Updating)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=ffffff&icon_color=0A66C2" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=FF00FF&currStreakLabel=00FF88" height="195"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&column=4&margin-w=15" />
 </div>
 
 ---
 
-### 🎥 Featured Projects
-<!-- ඔයාගේ projects ටික මෙතන add කරන්න -->
+### 🎬 Featured Creations
+
+<!-- මෙතන ඔයාගේ projects ටික දාන්න. උදාහිපක්: -->
+
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME1&theme=radical)](https://github.com/YOUR_USERNAME/REPO_NAME1)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME2&theme=radical)](https://github.com/YOUR_USERNAME/REPO_NAME2)
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Let's Connect in the Matrix
 
 <div align="center">
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/YOUR_INSTA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A66C2&height=120&section=footer&text=Thank%20You%20for%20Visiting%20%E2%9D%A4%EF%B8%8F&fontSize=20&fontColor=ffffff"/>
-</div>
+<!-- Contribution Snake -->
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" width="100%"/>
 
-<!-- Particles Background (අමතර ලස්සනට) -->
-<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-<div id="particles-js" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.3;"></div>
-<script>
-  particlesJS("particles-js", {
-    "particles": {
-      "number": { "value": 80 },
-      "color": { "value": "#0A66C2" },
-      "shape": { "type": "circle" },
-      "opacity": { "value": 0.5 },
-      "size": { "value": 3 },
-      "line_linked": {
-        "enable": true,
-        "distance": 150,
-        "color": "#0A66C2",
-        "opacity": 0.3,
-        "width": 1
-      },
-      "move": { "speed": 2 }
-    },
-    "interactivity": {
-      "detect_on": "canvas",
-      "events": {
-        "onhover": { "enable": true, "mode": "repulse" },
-        "onclick": { "enable": true, "mode": "push" }
-      }
-    }
-  });
-</script>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=FF00FF,00FF88,0A66C2&height=120&section=footer&text=Built%20with%20Passion%20%26%20Midnight%20Oil%20%E2%9C%A8&fontSize=18&fontColor=ffffff"/>
+</div>
