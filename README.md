@@ -1,79 +1,231 @@
 <div align="center">
 
-  <!-- Epic Header -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0A66C2,00FF88,FF00FF&height=280&section=header&text=Dev%20%3A%20S%20%E1%B4%9C%E1%B4%8F%E1%B4%8F%E1%B4%8F%E1%B4%8F%E1%B4%8F%E1%B4%8F%E1%B4%8F%E1%B4%8F&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Code%20Poet%20%7C%20Pixel%20Wizard%20%7C%20Future%20Builder&descAlign=50&descSize=18" width="100%"/>
-
-  <h1>👾 <span style="background: linear-gradient(90deg, #0A66C2, #00FF88, #FF00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: 'SF Pro Display', sans-serif;">S ʜͦ͢ᴀɴᴀ</span> 👾</h1>
-  
-  <!-- Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=2800&pause=600&color=00FF88&center=true&vCenter=true&width=700&lines=Crafting+Digital+Masterpieces;Next.js+%2B+TypeScript+Alchemist;Turning+Caffeine+into+Code;UI%2FUX+that+feels+like+Magic;Always+one+step+into+the+future" alt="Typing" />
-  </a>
+<!-- ░░ ANIMATED HEADER ░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0d0000,55:1a0000,85:2d0000,100:000000&height=320&section=header&text=S%20%CA%9C%CD%A6%CD%A2%E1%B4%80%C9%B4%E1%B4%80%20%22&fontSize=78&fontColor=ff2020&fontAlignY=44&animation=fadeIn&stroke=8b0000&strokeWidth=3&desc=Web%20%26%20Android%20Developer%20%7C%20Dark%20Architect&descSize=20&descColor=ff6b6b&descAlignY=68"/>
 
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/YOUR_PROFILE_GIF_HERE" width="220" style="border-radius: 50%; border: 6px solid #00FF88; box-shadow: 0 0 40px rgba(0, 255, 136, 0.6);"/>
-</div>
 
----
+<!-- ░░ TYPING ░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=900&color=FF2020&center=true&vCenter=true&width=680&lines=🩸+Web+%26+Android+Developer;⚔️+Firebase+%7C+HTML+%7C+CSS+%7C+JS+%7C+Java;🌑+Cyberpunk+Dark+UI+Architect;🎬+YouTube+Dev+Content+Creator;💀+Building+Shadow+Chat+—+The+Dark+Messenger" alt="Typing SVG"/>
 
-### 🌌 About Me
-> **"I don't just write code — I architect experiences that people fall in love with."**
+<br/><br/>
 
-- 🔥 Full-Stack Sorcerer | UI/UX Visionary | AI Enthusiast
-- 💎 Currently building **next-gen web experiences** with bleeding-edge tech
-- 🎮 When not coding: Gaming, Designing, or exploring Cyberpunk aesthetics
-- 🌍 Open for collaborations that push boundaries
+<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat-square&color=8b0000&label=👁️+visitors"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=followers&style=flat-square&color=ff2020&labelColor=0d0000"/>
+&nbsp;
+<img src="https://img.shields.io/badge/⚔️_status-always_building-8b0000?style=flat-square&labelColor=0d0000"/>
 
----
-
-### ⚡ Tech Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,react,nodejs,postgres,prisma,figma,threejs,framer,ai,python&perline=11&theme=dark" /><br>
 </div>
 
 ---
 
-### 📊 Live Stats (Auto Updating)
+<br/>
 
+<!-- ░░ ABOUT — GIF RIGHT ░░ -->
+<img align="right" width="370" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"/>
+
+### `> whoami`
+
+```yaml
+  name    :  S ʜͦ͢ᴀɴᴀ "
+  role    :  Web & Android Developer
+  tools   :  AIDE · Firebase · WebView
+  langs   :  Java · HTML · CSS · JS
+  theme   :  Dark · Demon · Neon Red 🩸
+  project :  Shadow Chat 🌑
+  content :  YouTube Dev Channel 🎬
+  base    :  Sri Lanka 🇱🇰
+  quote   :  "Code in darkness. Ship the light."
+```
+
+- 🩸 **Pure Android SDK** — native, clean, no androidx
+- ⚔️ **WebView UI** master — neon dark, animated, alive
+- 🔥 **Firebase** realtime db, auth & cloud storage
+- 💀 Cyberpunk UI obsessed — dark themes run deep
+- 🎬 Building & sharing on **YouTube**
+
+<br clear="right"/>
+
+---
+
+<br/>
+
+<!-- ░░ DARK DEMON GIF BANNER ░░ -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=ffffff&icon_color=0A66C2" height="195"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=FF00FF&currStreakLabel=00FF88" height="195"/>
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%" style="border-radius:8px"/>
 </div>
 
+<br/>
+
+---
+
+<!-- ░░ TECH STACK ░░ -->
+## ⚔️ Tech Arsenal
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&column=4&margin-w=15" />
+<img src="https://skillicons.dev/icons?i=androidstudio,java,firebase,html,css,js,git,github,figma,vscode&theme=dark&perline=10"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 </div>
 
 ---
 
-### 🎬 Featured Creations
+<br/>
 
-<!-- මෙතන ඔයාගේ projects ටික දාන්න. උදාහිපක්: -->
+<!-- ░░ DARK SAMURAI / DEMON GIF ░░ -->
+<div align="center">
+<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="680"/>
+</div>
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME1&theme=radical)](https://github.com/YOUR_USERNAME/REPO_NAME1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME2&theme=radical)](https://github.com/YOUR_USERNAME/REPO_NAME2)
+<br/>
 
 ---
 
-### 🌐 Let's Connect in the Matrix
+<!-- ░░ SHADOW CHAT PROJECT ░░ -->
+## 🌑 Shadow Chat
 
 <div align="center">
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/YOUR_INSTA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="660"/>
+
+<br/><br/>
+
+```
+  ╭───────────────────────────────────────────╮
+  │  🌑  S H A D O W   C H A T  🩸           │
+  │  ─────────────────────────────────────   │
+  │  💀  Secret Messaging · Auto-Delete      │
+  │  🔥  Firebase Realtime DB + Storage      │
+  │  🎨  Dark Neon UI · Orbitron Fonts       │
+  │  📱  WhatsApp-style · Pure Android SDK   │
+  ╰───────────────────────────────────────────╯
+```
+
+[![Shadow Chat](https://img.shields.io/badge/🌑_Shadow_Chat-View_Repo-8b0000?style=for-the-badge&labelColor=0d0000)](https://github.com/YOUR-USERNAME/shadow-chat)
+
 </div>
 
-<br>
+---
 
-<!-- Contribution Snake -->
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+<br/>
+
+<!-- ░░ STATS ░░ -->
+## 📊 Stats
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=FF00FF,00FF88,0A66C2&height=120&section=footer&text=Built%20with%20Passion%20%26%20Midnight%20Oil%20%E2%9C%A8&fontSize=18&fontColor=ffffff"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d0000&title_color=ff2020&icon_color=8b0000&text_color=ffaaaa&border_radius=12" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-USERNAME&theme=dark&hide_border=true&background=0d0000&ring=ff2020&fire=8b0000&currStreakLabel=ff2020&border_radius=12" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d0000&title_color=ff2020&text_color=ffaaaa&border_radius=12" width="42%"/>
+
+</div>
+
+---
+
+<br/>
+
+<!-- ░░ ACTIVITY ░░ -->
+## 📈 Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0d0000&color=ff2020&line=8b0000&point=ff6b6b&area=true&area_color=8b0000&hide_border=true&radius=8" width="100%"/>
+</div>
+
+---
+
+<br/>
+
+<!-- ░░ TROPHIES ░░ -->
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6"/>
+</div>
+
+---
+
+<br/>
+
+<!-- ░░ DARK FIRE GIF ░░ -->
+<div align="center">
+<img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="100%"/>
+</div>
+
+---
+
+<!-- ░░ YOUTUBE ░░ -->
+## 🎬 YouTube
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="460"/>
+
+<br/><br/>
+
+[![YouTube](https://img.shields.io/badge/▶_S_ʜᴀɴᴀ_"—_Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a0000)](https://youtube.com/@YOUR-CHANNEL)
+
+`📱 Android Dev` &nbsp;|&nbsp; `💀 Hacking` &nbsp;|&nbsp; `🔥 Firebase` &nbsp;|&nbsp; `🌑 Shadow Chat Logs`
+
+</div>
+
+---
+
+<br/>
+
+<!-- ░░ SNAKE ░░ -->
+## 🐍 Contributions
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+</div>
+
+---
+
+<br/>
+
+<!-- ░░ CONNECT ░░ -->
+## 📡 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR--USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
+[![YouTube](https://img.shields.io/badge/YouTube-S_ʜᴀɴᴀ_"-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR-CHANNEL)
+
+</div>
+
+---
+
+<br/>
+
+<!-- ░░ FOOTER ░░ -->
+<div align="center">
+
+<img src="https://media.giphy.com/media/3oEjI5VtIhHvK37WYo/giphy.gif" width="100%"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:1a0000,70:0d0000,100:000000&height=130&section=footer&animation=fadeIn"/>
+
+```
+「  S ʜͦ͢ᴀɴᴀ "  —  Code in Darkness. Ship the Light. 🩸  」
+```
+
 </div>
