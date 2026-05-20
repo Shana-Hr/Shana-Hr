@@ -1,194 +1,196 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff9f,100:0ff0fc&height=200&section=header&text=◉⃝%20Shana%20࿐&fontSize=55&fontColor=00ff9f&fontAlignY=38&animation=fadeIn&desc=DILSH%20%7C%20Android%20Developer%20%7C%20Hacker%20Mindset&descSize=18&descAlignY=60&descColor=0ff0fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0d0d,60:00c6ff,100:0072ff&height=280&section=header&text=S%20%CA%9C%CD%A6%CD%A2%E1%B4%80%C9%B4%E1%B4%80&fontSize=80&fontColor=ffffff&fontAlignY=45&animation=fadeIn&stroke=00c6ff&strokeWidth=2&desc=%22%20Full-Stack%20%26%20Android%20Developer%20%22&descSize=20&descColor=a0cfff&descAlignY=68" width="100%"/>
 
-<!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=700&lines=🔥+Android+Developer+%7C+AIDE+%26+Firebase;💀+App+Builder+%7C+Hacker+Mindset;⚡+YouTube+Content+Creator+%7C+DILSH;🌐+Cyberpunk+UI+Crafter;🛸+Building+the+Future%2C+One+App+at+a+Time" alt="Typing SVG" />
-</a>
+</div>
+
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=00C6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Space+%F0%9F%8C%90;Full-Stack+%2B+Android+Developer;Firebase+%7C+WebView+%7C+AIDE+Pro;Cyberpunk+UI+Architect+%E2%9A%A1;YouTube+%E2%80%94+Building+in+Public" alt="Typing SVG" /></a>
+
+</div>
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=DILSH-DEV&style=for-the-badge&color=00ff9f&label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/DILSH-DEV?style=for-the-badge&color=0ff0fc&labelColor=0f0f0f&label=FOLLOWERS" />
-
-</div>
-
----
-
-<!-- ABOUT ME SECTION -->
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║        ◉⃝ 𝐒𝐡𝐚𝐧𝐚 ࿐  [ DILSH ]   v2.0.26                ║
-║                                                          ║
-║   > Role     : Android Dev + YouTube Creator             ║
-║   > Stack    : AIDE · Firebase · WebView · HTML/JS       ║
-║   > Style    : Cyberpunk Dark UI ⚡                       ║
-║   > Status   : Building Shadow Chat 🌑                   ║
-║   > Location : Sri Lanka 🇱🇰                              ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
+<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat-square&color=0072ff&label=visitors" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=followers&style=flat-square&color=00c6ff&labelColor=0d0d0d" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/status-building%20🔨-00c6ff?style=flat-square&labelColor=0d0d0d" />
 </div>
 
 ---
 
-<!-- GIF + INTRO SIDE BY SIDE -->
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<br/>
 
-### 💀 `whoami`
+<img align="right" width="340" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
-```bash
-$ cat developer.json
-{
-  "name"    : "◉⃝ Shana ࿐",
-  "alias"   : "DILSH",
-  "passion" : "Android Apps + Ethical Hacking",
-  "channel" : "YouTube → DILSH",
-  "current" : "Shadow Chat App 🔥",
-  "vibe"    : "Cyberpunk | Dark | Neon"
-}
+### `> about me`
+
+```yaml
+name    : S ʜͦ͢ᴀɴᴀ
+role    : Full-Stack & Android Developer
+tools   : AIDE · Firebase · WebView · HTML/CSS/JS
+focus   : Cyberpunk UI · App Architecture
+channel : YouTube Dev Content
+project : Shadow Chat — Secret Messenger 🌑
+origin  : Sri Lanka 🇱🇰
+status  : Always Building ⚡
 ```
 
-- 🔧 Building **Android apps** with **AIDE + Firebase**
-- 🎬 Running a **YouTube** channel on **App Dev & Hacking**
-- 🌑 Working on **Shadow Chat** — secret messaging app
-- ⚡ Obsessed with **Cyberpunk Dark UIs**
-- 💻 **Pure Android SDK** warrior — no androidx needed!
+- 🔵 Crafting **Android apps** from scratch with **AIDE**
+- 🔵 Firebase **Realtime DB** & **Cloud Storage** backends  
+- 🔵 **Cyberpunk-dark** WebView UI specialist  
+- 🔵 Sharing dev journey on **YouTube**  
+- 🔵 Currently shipping **Shadow Chat** 🌑
 
 <br clear="right"/>
 
 ---
 
-<!-- TECH STACK -->
-## 🛠️ Tech Arsenal
+<br/>
+
+## ⚡ Tech Stack
 
 <div align="center">
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://skillicons.dev/icons?i=androidstudio,java,firebase,html,css,js,git,github,vscode,figma&theme=dark&perline=10" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
 ---
 
-<!-- FEATURED PROJECT -->
-## 🌑 Featured Project — Shadow Chat
+<br/>
+
+## 🌑 Featured — Shadow Chat
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" style="border-radius:12px;border:1px solid #00c6ff20"/>
+
+<br/><br/>
+
 ```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   🔒  S H A D O W   C H A T                        │
-│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━                     │
-│                                                     │
-│   ✦  Secret Messaging Android App                  │
-│   ✦  Firebase Realtime DB + Storage                │
-│   ✦  Auto-Delete Messages 💣                       │
-│   ✦  Cyberpunk Dark UI (WebView + HTML/JS)         │
-│   ✦  Custom Fonts: Orbitron · Exo 2               │
-│   ✦  Animated Neon Glows + Effects                 │
-│   ✦  WhatsApp-style UX                             │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+  ╭──────────────────────────────────────╮
+  │   🌑  S H A D O W   C H A T         │
+  │  ─────────────────────────────────  │
+  │  Secret Messaging · Auto-Delete 💣  │
+  │  Firebase Realtime DB + Storage     │
+  │  Cyberpunk UI · Orbitron Fonts      │
+  │  WhatsApp-style UX · Pure SDK       │
+  ╰──────────────────────────────────────╯
 ```
 
-[![Shadow Chat](https://img.shields.io/badge/🌑_Shadow_Chat-View_Repo-00ff9f?style=for-the-badge&labelColor=0f0f0f)](https://github.com/DILSH-DEV/shadow-chat)
+[![View Repo](https://img.shields.io/badge/🌑_Shadow_Chat-View_on_GitHub-0072ff?style=for-the-badge&labelColor=0d0d0d)](https://github.com/YOUR-USERNAME/shadow-chat)
 
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DILSH-DEV&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0f0f0f&title_color=00ff9f&icon_color=0ff0fc&text_color=ffffff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DILSH-DEV&theme=dark&hide_border=true&background=0f0f0f&ring=00ff9f&fire=ff6b35&currStreakLabel=0ff0fc" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00c6ff&icon_color=0072ff&text_color=c9d1d9&border_radius=10" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00c6ff&fire=0072ff&currStreakLabel=00c6ff&border_radius=10" width="49%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00c6ff&text_color=c9d1d9&border_radius=10&langs_count=6" width="40%" />
+
+</div>
+
+---
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DILSH-DEV&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0f0f0f&title_color=00ff9f&text_color=ffffff" width="48%" />
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0d0d0d&color=00c6ff&line=0072ff&point=ffffff&area=true&hide_border=true&radius=8" width="100%"/>
+</div>
+
+---
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
+</div>
+
+---
+
+<br/>
+
+## 🎬 YouTube
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="400"/>
+
+<br/><br/>
+
+[![YouTube Channel](https://img.shields.io/badge/YouTube-S%20ʜ%E1%B4%80%C9%B4%E1%B4%80-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR-CHANNEL)
+
+`📺 Android Dev · Hacking Concepts · App Builds · Firebase Tutorials`
 
 </div>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-## 📈 Activity
+<br/>
+
+## 🐍 Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DILSH-DEV&bg_color=0f0f0f&color=00ff9f&line=0ff0fc&point=ffffff&area=true&hide_border=true" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 </div>
 
 ---
 
-<!-- SNAKE ANIMATION -->
-## 🐍 Contribution Snake
+<br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DILSH-DEV/DILSH-DEV/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> ⚠️ Snake animation හදාගන්න: **Settings → Actions → snake.yml** workflow add කරන්න (පහළ README-SETUP.md බලන්න)
-
----
-
-<!-- YOUTUBE SECTION -->
-## 🎬 YouTube Channel
+## 📡 Links
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-DILSH-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@DILSH)
-
-```
-📺  App Development Tutorials
-💀  Android Hacking & Security
-⚡  AIDE Firebase Projects
-🌑  Shadow Chat Dev Logs
-```
-
-[![Subscribe](https://img.shields.io/badge/🔥_SUBSCRIBE_NOW-FF0000?style=for-the-badge)](https://youtube.com/@DILSH)
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR--USERNAME-181717?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@YOUR-CHANNEL)
 
 </div>
 
 ---
 
-<!-- CONTACT -->
-## 📡 Connect
+<br/>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-DILSH--DEV-100000?style=for-the-badge&logo=github)](https://github.com/DILSH-DEV)
-[![YouTube](https://img.shields.io/badge/YouTube-DILSH-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@DILSH)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,60:00c6ff,100:000000&height=140&section=footer&animation=fadeIn" width="100%"/>
 
-</div>
-
----
-
-<!-- FOOTER -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff0fc,50:00ff9f,100:0f0f0f&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-```
-[ DILSH ] — ◉⃝ 𝐒𝐡𝐚𝐧𝐚 ࿐ — Crafting Digital Shadows 🌑
-```
-
-**"Code in the dark. Shine in the output."** ⚡
+<sub><sup>
+「 S ʜͦ͢ᴀɴᴀ — Write code. Ship apps. Leave a mark. 」
+</sup></sub>
 
 </div>
