@@ -1,132 +1,93 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World!&height=100&section=header&fontSize=40&fontAlignY=40&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Dev+%3A+S+%CA%9C%CD%9C%CD%A6%E1%B4%80%C9%B4%E1%B4%80;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <a href="https://github.com/YOUR-USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=flat-square&color=blue" alt="Followers" />
-  </a>
-</p>
-
-<br/>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A66C2&height=200&section=header&text=Dev%20%3A%20S%20%E1%B4%9C%E1%B4%8F%E1%B4%8F%E1%B4%8F%E1%B4%8F%E1%B4%8F%E1%B4%8F%E1%B4%8F%E1%B4%8F&fontSize=40&fontColor=ffffff" width="100%"/>
+  
+  <h1>👋 Hi, I'm <span style="color: #0A66C2;">S ʜͦ͢ᴀɴᴀ</span></h1>
+  <p><strong>Full Stack Developer | UI/UX Enthusiast | Code Artist</strong></p>
+
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Building+the+future+with+code;Turning+ideas+into+reality;Passionate+about+clean+UI%2FUX;Always+learning+new+tech" alt="Typing SVG" />
+  </a>
 </div>
 
-<br/>
+<br>
 
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-  <picture>
-    <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  </picture>
-</p>
-
-- 🔭 I'm currently working on **Exciting Projects**  
-- 🌱 I'm currently learning **New Technologies**  
-- 👯 I'm looking to collaborate on **Open Source Projects**  
-- 💬 Ask me about **Web Development, Python, JavaScript**  
-- 📫 How to reach me: **your-email@example.com**  
-- ⚡ Fun fact: **I love Coding & Coffee ☕**  
-
-<br clear="right"/>
-
-<br/>
-
-<h2 align="center">⚡ GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B35&currStreakLabel=36BCF7" width="48%" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=36BCF7&layout=compact" width="38%" alt="Top Languages"/>
-</p>
-
-<br/>
-
-<h2 align="center">🛠️ Languages & Tools</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,git,github,vscode,mongodb,mysql,docker,aws&perline=7" alt="Skills"/>
-</p>
-
-<br/>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Trophies"/>
-</p>
-
-<br/>
-
-<h2 align="center">🎵 My Coding Playlist</h2>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/your-spotify-id">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR-SPOTIFY-USER-ID&count=3&width=600" alt="Spotify"/>
-  </a>
-</p>
-
-<br/>
-
-<h2 align="center">📊 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="90%" alt="Contribution Graph"/>
-</p>
-
-<br/>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-<br/>
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/your-instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://discord.com/users/your-discord-id">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0a0b0b0b-0b0b-4b0b-8b0b-0b0b0b0b0b0b" width="80" height="80" style="border-radius: 50%; border: 4px solid #0A66C2;"/>
+</div>
 
 ---
 
-### ⭐ Dev : S ʜͦ͢ᴀɴᴀ ⭐
+### 🚀 About Me
+- 🔥 Passionate developer crafting beautiful digital experiences
+- 💻 Currently mastering **Next.js, Tailwind, TypeScript & AI tools**
+- 🎨 Love turning complex problems into simple, beautiful solutions
+- 🌍 Open to collaborations and exciting projects
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,python,git,figma,linux&perline=10" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
+</div>
+
+---
+
+### 🎥 Featured Projects
+<!-- ඔයාගේ projects ටික මෙතන add කරන්න -->
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/YOUR_INSTA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A66C2&height=120&section=footer&text=Thank%20You%20for%20Visiting%20%E2%9D%A4%EF%B8%8F&fontSize=20&fontColor=ffffff"/>
+</div>
+
+<!-- Particles Background (අමතර ලස්සනට) -->
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<div id="particles-js" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.3;"></div>
+<script>
+  particlesJS("particles-js", {
+    "particles": {
+      "number": { "value": 80 },
+      "color": { "value": "#0A66C2" },
+      "shape": { "type": "circle" },
+      "opacity": { "value": 0.5 },
+      "size": { "value": 3 },
+      "line_linked": {
+        "enable": true,
+        "distance": 150,
+        "color": "#0A66C2",
+        "opacity": 0.3,
+        "width": 1
+      },
+      "move": { "speed": 2 }
+    },
+    "interactivity": {
+      "detect_on": "canvas",
+      "events": {
+        "onhover": { "enable": true, "mode": "repulse" },
+        "onclick": { "enable": true, "mode": "push" }
+      }
+    }
+  });
+</script>
